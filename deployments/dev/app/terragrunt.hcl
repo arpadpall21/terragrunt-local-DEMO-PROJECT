@@ -15,7 +15,7 @@ dependency "vnet" {                                 // dependency
   config_path = "../vnet"
 
   mock_outputs = {                                  // mock value (in case the unit is deployed alone or for stack plan)
-    network_name = "mocked netwkor name"
+    network_name = "mocked network name"
   }
 }
 

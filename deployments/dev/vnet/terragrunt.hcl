@@ -9,7 +9,6 @@ include "env" {
 
 terraform {
   source = "../../../modules/vnet"
-
 }
 
 inputs = {
